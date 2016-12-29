@@ -1,0 +1,16 @@
+------------------------------------------------------------
+Init times: General
+------------------------------------------------------------
+2 [57]: Generate geometry
+0 [0]: Generate IA structures
+0 [0]: Track generation
+14 [514]: Loft-Surface generation
+5 [176]: Generate Dx models
+9 [332]: Generate Collision bodies: track
+1 [19]: Create KDD tree
+14 [504]: Create Metropolis Structure
+2 [84]: Generate Entities
+3 [107]: Generate Collision bodies: archs
+0 [0]: Generate Collision bodies: bumpers
+50 [1814]: Kdd generation
+Total time:3612

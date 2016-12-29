@@ -1,0 +1,32 @@
+	// Attenution that falls off to zero at light radius
+	const float a = 0.15;
+
+  float pet = ;
+  // Force radius of light
+
+//  float d = distance;
+	//float atten = 2 * saturate((1.0 + a) / (1.0 + (1.0 / a) * dot(lVec, lVec)) - a);
+//float atten = 1.0 / (d * d);
+
+
+  float invRadius = 1.0f / lRad ;
+  float atten = clamp(1.0 - invRadius * d, 0.0, 1.0);
+  //atten = 1.0 / (1.0f + 0.0000005f * d * d);
+
+
+
+PHYSICALLY CORRECT
+  float dist = length(lVec);
+  float d = max( (dist - lRad) , 0.0f );
+  float invRadius = 1.0f / lRad ;
+  float atten = clamp(1.0 - invRadius * d, 0.0, 1.0);
+
+
+
+
+INVERSE EXPONENTIAL
+
+  float dist = length(lVec);
+  float att_t = clamp ( ( lRad - dist ), 0.0, lRad );
+  att_t = att_t / lRad;
+  float atten = 1.0f - exp ( -(att_t*10.0f));

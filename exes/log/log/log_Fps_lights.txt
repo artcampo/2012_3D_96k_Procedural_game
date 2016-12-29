@@ -1,0 +1,3 @@
+Fps mean: 15
+Fps  max: 18
+Fps  min: 14

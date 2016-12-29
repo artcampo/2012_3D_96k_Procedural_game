@@ -1,0 +1,75 @@
+HPP:
+  //  load of meshes
+  void  initColours();
+  Mesh* loadMesh ( const char* aFileName );
+  std::vector<Mesh*>       mMeshTest;
+  std::vector<EditableMeshModel*> mMeshModel;
+  ColourMapping   mColours;
+
+CPP:
+
+en ctor:
+  initColours(); 
+
+uso:
+  //  Creation of static from mesh
+  mMeshTest.resize(1);
+  mMeshTest[0] =  loadMesh( "./pool2.nbo" );
+
+  mMeshModel = mMeshTest[0]->convert( Global::md3dDevice, 
+                        D3DXVECTOR3( 10,0,0),
+                        &mColours );
+
+  mPhysics->createStaticRigidBody( mMeshTest[0] );
+ 
+ 
+ 
+Mesh*  GameBpApp::loadMesh ( const char* aFileName )
+{
+  Mesh* mesh = new Mesh();
+  //ifstream fileStd ("./piscina.nbo", fstream::in| fstream::binary );
+  ifstream fileStd ( aFileName, fstream::in );  
+
+  if ( fileStd.good() )
+  {  
+    mesh->load( fileStd );
+    fileStd.close();
+    return mesh;
+  }
+  else 
+    return NULL;
+}
+
+
+
+void GameBpApp::initColours()
+{
+  mColours.obj      = D3DXCOLOR( 0.8f, 0.0f, 0.0f, 1.0f );
+  mColours.objSel   = D3DXCOLOR( 0.8f, 0.0f, 0.0f, 1.0f );
+  mColours.objHigh  = D3DXCOLOR( 0.8f, 0.0f, 0.0f, 1.0f );
+
+  mColours.ver      = D3DXCOLOR( 0.8f, 0.0f, 0.0f, 1.0f );
+  mColours.verSel   = D3DXCOLOR( 0.0f, 0.0f, 0.0f, 1.0f );
+  mColours.verHigh  = D3DXCOLOR( 0.0f, 0.0f, 0.8f, 1.0f );
+
+  mColours.edg      = D3DXCOLOR( 0.8f, 0.0f, 0.0f, 1.0f );
+  mColours.edgSel   = D3DXCOLOR( 0.0f, 0.0f, 0.0f, 1.0f );
+  mColours.edgHigh  = D3DXCOLOR( 0.0f, 0.0f, 1.0f, 1.0f );
+
+
+  mColours.fac      = D3DXCOLOR( 0.2f, 0.2f, 0.8f, 0.2f );
+  mColours.facSel   = D3DXCOLOR( 0.8f, 0.8f, 0.0f, 0.2f );
+  mColours.facHigh  = D3DXCOLOR( 0.6f, 0.6f, 0.6f, 0.2f );
+
+  mColours.gizmo[0] = D3DXCOLOR( 1.0f, 0.0f, 0.0f, 1.0f );
+  mColours.gizmo[1] = D3DXCOLOR( 0.0f, 1.0f, 0.0f, 1.0f );
+  mColours.gizmo[2] = D3DXCOLOR( 0.0f, 0.0f, 1.0f, 1.0f );
+
+  mColours.gizmoHigh[0] = D3DXCOLOR( 1.0f, 1.0f, 1.0f, 1.0f );
+  mColours.gizmoHigh[1] = D3DXCOLOR( 1.0f, 1.0f, 1.0f, 1.0f );
+  mColours.gizmoHigh[2] = D3DXCOLOR( 1.0f, 1.0f, 1.0f, 1.0f );
+
+  mColours.gizmoSel[0] = D3DXCOLOR( 0.0f, 0.0f, 0.0f, 1.0f );
+  mColours.gizmoSel[1] = D3DXCOLOR( 0.0f, 0.0f, 0.0f, 1.0f );
+  mColours.gizmoSel[2] = D3DXCOLOR( 0.0f, 0.0f, 0.0f, 1.0f );
+}

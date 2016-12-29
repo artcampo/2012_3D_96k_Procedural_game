@@ -1,0 +1,15 @@
+  std::vector<D3DXVECTOR3*> test (7);
+  test[0] = new D3DXVECTOR3(2,3,0);
+  test[1] = new D3DXVECTOR3(3,2,0);
+  test[2] = new D3DXVECTOR3(4,1,0);
+  test[3] = new D3DXVECTOR3(5,0,0);
+  test[4] = new D3DXVECTOR3(6,1,0);
+  test[5] = new D3DXVECTOR3(7,2,0);
+  test[6] = new D3DXVECTOR3(8,3,0);
+
+  Kdd2d::KddTree2d<D3DXVECTOR3> kddTree( test );
+
+  std::vector<D3DXVECTOR3*> p;
+  p = kddTree.neighbours( 3, 2, 2 );
+  p = kddTree.neighbours( 7, 2, 2 );
+  p = kddTree.neighbours( 5, 0.5, 2 );

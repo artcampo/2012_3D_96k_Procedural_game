@@ -1,0 +1,15 @@
+------------------------------------------------------------
+Init times: General
+------------------------------------------------------------
+1 [313]: Track generation
+0 [114]: Graph
+0 [118]: Generate geometry
+14 [3631]: Loft-Surface generation
+5 [1290]: Generate Dx models
+9 [2403]: Generate Collision bodies: track
+1 [145]: Create KDD tree
+1 [198]: Generate Entities
+0 [0]: Generate Collision bodies: archs
+1 [139]: Generate Collision bodies: bumpers
+67 [17159]: Kdd generation
+Total time:25517

@@ -1,0 +1,6 @@
+Cada numero en una linea. Parametros
+
+numero de puntos de atraccion
+numero de iteraciones
+numero de resets
+numero de nuevos puntos de atraccion por reset

@@ -1,0 +1,250 @@
+
+-----------------------------------------------------------------------------------
+          BRANCHES
+-----------------------------------------------------------------------------------
+Branch: 15421 (35 nodes)
+Branch: 15434 (37 nodes)
+Branch: 15458 (38 nodes)
+Branch: 15414 (39 nodes)
+Branch: 16764 (39 nodes)
+Branch: 16778 (41 nodes)
+Branch: 16802 (42 nodes)
+Branch: 16758 (43 nodes)
+Branch: 16771 (41 nodes)
+Branch: 16784 (43 nodes)
+Branch: 16808 (44 nodes)
+Branch: 16764 (45 nodes)
+Branch: 16782 (42 nodes)
+Branch: 16796 (44 nodes)
+Branch: 16819 (45 nodes)
+Branch: 16776 (46 nodes)
+Branch: 16761 (43 nodes)
+Branch: 16775 (45 nodes)
+Branch: 16799 (46 nodes)
+Branch: 16755 (47 nodes)
+Branch: 15434 (37 nodes)
+Branch: 15448 (39 nodes)
+Branch: 15472 (40 nodes)
+Branch: 15428 (41 nodes)
+Branch: 16778 (41 nodes)
+Branch: 16791 (43 nodes)
+Branch: 16815 (44 nodes)
+Branch: 16771 (45 nodes)
+Branch: 16784 (43 nodes)
+Branch: 16798 (45 nodes)
+Branch: 16821 (46 nodes)
+Branch: 16778 (47 nodes)
+Branch: 16796 (44 nodes)
+Branch: 16809 (46 nodes)
+Branch: 16833 (47 nodes)
+Branch: 16789 (48 nodes)
+Branch: 16775 (45 nodes)
+Branch: 16788 (47 nodes)
+Branch: 16812 (48 nodes)
+Branch: 16768 (49 nodes)
+Branch: 15458 (38 nodes)
+Branch: 15472 (40 nodes)
+Branch: 15495 (41 nodes)
+Branch: 15452 (42 nodes)
+Branch: 16802 (42 nodes)
+Branch: 16815 (44 nodes)
+Branch: 16839 (45 nodes)
+Branch: 16795 (46 nodes)
+Branch: 16808 (44 nodes)
+Branch: 16821 (46 nodes)
+Branch: 16845 (47 nodes)
+Branch: 16801 (48 nodes)
+Branch: 16819 (45 nodes)
+Branch: 16833 (47 nodes)
+Branch: 16856 (48 nodes)
+Branch: 16813 (49 nodes)
+Branch: 16799 (46 nodes)
+Branch: 16812 (48 nodes)
+Branch: 16836 (49 nodes)
+Branch: 16792 (50 nodes)
+Branch: 15414 (39 nodes)
+Branch: 15428 (41 nodes)
+Branch: 15452 (42 nodes)
+Branch: 15408 (43 nodes)
+Branch: 16758 (43 nodes)
+Branch: 16771 (45 nodes)
+Branch: 16795 (46 nodes)
+Branch: 16751 (47 nodes)
+Branch: 16764 (45 nodes)
+Branch: 16778 (47 nodes)
+Branch: 16801 (48 nodes)
+Branch: 16758 (49 nodes)
+Branch: 16776 (46 nodes)
+Branch: 16789 (48 nodes)
+Branch: 16813 (49 nodes)
+Branch: 16769 (50 nodes)
+Branch: 16755 (47 nodes)
+Branch: 16768 (49 nodes)
+Branch: 16792 (50 nodes)
+Branch: 16748 (51 nodes)
+Branch: 15409 (33 nodes)
+Branch: 15422 (35 nodes)
+Branch: 15446 (36 nodes)
+Branch: 15402 (37 nodes)
+Branch: 16752 (37 nodes)
+Branch: 16766 (39 nodes)
+Branch: 16789 (40 nodes)
+Branch: 16746 (41 nodes)
+Branch: 16759 (39 nodes)
+Branch: 16772 (41 nodes)
+Branch: 16796 (42 nodes)
+Branch: 16752 (43 nodes)
+Branch: 16770 (40 nodes)
+Branch: 16783 (42 nodes)
+Branch: 16807 (43 nodes)
+Branch: 16763 (44 nodes)
+Branch: 16749 (41 nodes)
+Branch: 16763 (43 nodes)
+Branch: 16786 (44 nodes)
+Branch: 16743 (45 nodes)
+Branch: 15422 (35 nodes)
+Branch: 15436 (37 nodes)
+Branch: 15459 (38 nodes)
+Branch: 15416 (39 nodes)
+Branch: 16766 (39 nodes)
+Branch: 16779 (41 nodes)
+Branch: 16803 (42 nodes)
+Branch: 16759 (43 nodes)
+Branch: 16772 (41 nodes)
+Branch: 16785 (43 nodes)
+Branch: 16809 (44 nodes)
+Branch: 16765 (45 nodes)
+Branch: 16783 (42 nodes)
+Branch: 16797 (44 nodes)
+Branch: 16820 (45 nodes)
+Branch: 16777 (46 nodes)
+Branch: 16763 (43 nodes)
+Branch: 16776 (45 nodes)
+Branch: 16800 (46 nodes)
+Branch: 16756 (47 nodes)
+Branch: 15446 (36 nodes)
+Branch: 15459 (38 nodes)
+Branch: 15483 (39 nodes)
+Branch: 15439 (40 nodes)
+Branch: 16789 (40 nodes)
+Branch: 16803 (42 nodes)
+Branch: 16827 (43 nodes)
+Branch: 16783 (44 nodes)
+Branch: 16796 (42 nodes)
+Branch: 16809 (44 nodes)
+Branch: 16833 (45 nodes)
+Branch: 16789 (46 nodes)
+Branch: 16807 (43 nodes)
+Branch: 16820 (45 nodes)
+Branch: 16844 (46 nodes)
+Branch: 16800 (47 nodes)
+Branch: 16786 (44 nodes)
+Branch: 16800 (46 nodes)
+Branch: 16823 (47 nodes)
+Branch: 16780 (48 nodes)
+Branch: 15402 (37 nodes)
+Branch: 15416 (39 nodes)
+Branch: 15439 (40 nodes)
+Branch: 15396 (41 nodes)
+Branch: 16746 (41 nodes)
+Branch: 16759 (43 nodes)
+Branch: 16783 (44 nodes)
+Branch: 16739 (45 nodes)
+Branch: 16752 (43 nodes)
+Branch: 16765 (45 nodes)
+Branch: 16789 (46 nodes)
+Branch: 16745 (47 nodes)
+Branch: 16763 (44 nodes)
+Branch: 16777 (46 nodes)
+Branch: 16800 (47 nodes)
+Branch: 16757 (48 nodes)
+Branch: 16743 (45 nodes)
+Branch: 16756 (47 nodes)
+Branch: 16780 (48 nodes)
+Branch: 16736 (49 nodes)
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000
+Coef: 0.000 Vmax:80.000

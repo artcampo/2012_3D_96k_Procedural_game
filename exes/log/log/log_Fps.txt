@@ -1,0 +1,3 @@
+Fps mean: 45
+Fps  max: 52
+Fps  min: 30

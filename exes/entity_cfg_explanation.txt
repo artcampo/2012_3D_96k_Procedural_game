@@ -1,0 +1,4 @@
+archDensity, every how many units we find one arch
+archDispersion, dispersion from equidistant distribution (must be inferior to archDensity/2) 
+bumperDensity
+bumperDispersion

@@ -1,0 +1,5 @@
+Ponder: in the air, reduce more than 30% of your speed
+Big Fall: land from a height of at least 150
+Mood swing: land with a velocity almost opposite to initial
+Getting High: make a jump of at least height 20
+Air-Max: use nitro in the air

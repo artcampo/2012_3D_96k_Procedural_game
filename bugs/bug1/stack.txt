@@ -1,0 +1,24 @@
+ 	KernelBase.dll!750eb9bc() 	
+ 	[Los marcos siguientes pueden no ser correctos o faltar, no se han cargado símbolos para KernelBase.dll]	
+ 	KernelBase.dll!750eb9bc() 	
+ 	ntdll.dll!77010fcb() 	
+>	msvcr90d.dll!_unlock(int locknum=8)  Línea 376	C
+ 	msvcr90d.dll!_unlockexit()  Línea 808 + 0x7 bytes	C
+ 	msvcr90d.dll!_CxxThrowException(void * pExceptionObject=0x0038ecec, const _s__ThrowInfo * pThrowInfo=0x64635bb8)  Línea 161	C++
+ 	msvcr90d.dll!operator new(unsigned int size=80000)  Línea 64	C++
+ 	part.exe!std::_Allocate<Particle>(unsigned int _Count=2000, Particle * __formal=0x00000000)  Línea 43 + 0xc bytes	C++
+ 	part.exe!std::allocator<Particle>::allocate(unsigned int _Count=2000)  Línea 145 + 0xb bytes	C++
+ 	part.exe!std::vector<Particle,std::allocator<Particle> >::_Buy(unsigned int _Capacity=2000)  Línea 1115 + 0xf bytes	C++
+ 	part.exe!std::vector<Particle,std::allocator<Particle> >::_Construct_n(unsigned int _Count=2000, const Particle & _Val={...})  Línea 546 + 0xc bytes	C++
+ 	part.exe!std::vector<Particle,std::allocator<Particle> >::vector<Particle,std::allocator<Particle> >(unsigned int _Count=2000)  Línea 484	C++
+ 	part.exe!PartSys::dxdx(float aT=1293.3313, float * aX=0x76fb0068, float * aXdot=0x7ef70068)  Línea 136 + 0xe bytes	C++
+ 	part.exe!PartSys::odeSolverEuler(float * aX0=0x76fb0068, float * aXF=0x76ddbc28, float aT=1293.3313, float aTF=1293.4313, void (float, float *, float *)* aDxdt=0x00a25252)  Línea 227 + 0x17 bytes	C++
+ 	part.exe!PartSys::Step(float aDeltaT=0.10000000)  Línea 118	C++
+ 	part.exe!DelaunayApp::drawScene()  Línea 85	C++
+ 	part.exe!BaseDX::Main()  Línea 124 + 0xf bytes	C++
+ 	part.exe!WinMain(HINSTANCE__ * hInstance=0x009f0000, HINSTANCE__ * hPrevInstance=0x00000000, char * pCmdLine=0x005d6394, int nShowCmd=1)  Línea 17 + 0xb bytes	C++
+ 	part.exe!__tmainCRTStartup()  Línea 574 + 0x35 bytes	C
+ 	part.exe!WinMainCRTStartup()  Línea 399	C
+ 	kernel32.dll!74e4339a() 	
+ 	ntdll.dll!77009ed2() 	
+ 	ntdll.dll!77009ea5() 	

@@ -1,0 +1,5 @@
+Algorithm outline:
+
+1) for every edge choose if we are going to place an structure
+2) for every chosen edge decide which structure to use, and
+where to place it along its path

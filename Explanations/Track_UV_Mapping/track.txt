@@ -1,0 +1,6 @@
+The integral of the length along the path and slice can
+be computed as uv coord. The path can be tiled, but the
+slices goes from 0 to N, and it should be fitted to
+[0, N/2] and [N/2,0] so it tiles itself. If the point
+N/2 is in either side, the surface where the ball
+slides won't have any mirroring.

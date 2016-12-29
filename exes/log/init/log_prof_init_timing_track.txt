@@ -1,0 +1,560 @@
+------------------------------------------------------------
+Init times: Branches
+------------------------------------------------------------
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+1 [2]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Curvy set
+0 [0]: Curvy fit
+0 [0]: Curvy new of object
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Curvy set
+0 [0]: Curvy fit
+0 [0]: Curvy new of object
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Curvy set
+0 [0]: Curvy fit
+0 [0]: Curvy new of object
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Curvy set
+0 [0]: Curvy fit
+0 [0]: Curvy new of object
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Curvy set
+0 [0]: Curvy fit
+0 [0]: Curvy new of object
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Curvy set
+0 [0]: Curvy fit
+0 [0]: Curvy new of object
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Curvy set
+0 [0]: Curvy fit
+0 [0]: Curvy new of object
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Curvy set
+0 [0]: Curvy fit
+0 [0]: Curvy new of object
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Curvy set
+0 [0]: Curvy fit
+0 [0]: Curvy new of object
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Curvy set
+0 [0]: Curvy fit
+0 [0]: Curvy new of object
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Curvy set
+0 [0]: Curvy fit
+0 [0]: Curvy new of object
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Curvy set
+0 [0]: Curvy fit
+0 [0]: Curvy new of object
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Curvy set
+0 [0]: Curvy fit
+0 [0]: Curvy new of object
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Sans curves
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Curvy set
+0 [0]: Curvy fit
+0 [0]: Curvy new of object
+0 [0]: Integrate
+0 [0]: Sans curves
+0 [0]: Curvy set
+0 [0]: Curvy fit
+0 [0]: Curvy new of object
+Total time:198

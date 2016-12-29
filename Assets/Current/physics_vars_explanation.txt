@@ -1,0 +1,13 @@
+mMaxStepTime, in milliseconds
+mGravityAcc, gravity (0,-n]
+mDragForce, opposition to any linear velocity. Range: [0,-n]
+mBounceCoefficient, bounciness of a collision. Range: [0,1]
+mFwdModule, forward movement module Range: (0,n)
+mBckModule, backwards movement module Range: (0,n)
+mSidModule, sideways movement module Range: (0,n)
+mMaxVelocity, maximum linear velocity. Recommended range: (15,40)
+num starting nitros (int)
+coef nitro impulse, how much is the vel increased (float: [0,1] )
+coef nitro max vel, how much is the max vel increased (float: [0,1] )
+time between nitros (float, seconds)
+time nitro max vel, how long does it affect max vel (float, seconds)

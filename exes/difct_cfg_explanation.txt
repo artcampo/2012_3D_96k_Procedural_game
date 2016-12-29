@@ -1,0 +1,22 @@
+chrono, time mult easy
+chrono, time mult med
+chrono, time mult dif
+lab, distance between archs easy
+lab, distance between archs med
+lab, distance between archs dif
+chase/spartacus, max speed
+spartacus, #opponents mult easy
+spartacus, #opponents mult med
+spartacus, #opponents mult dif
+track_all, length track mult easy
+track_all, length track mult med
+track_all, length track mult dif
+track_all, width track easy (units)
+track_all, width track med (units)
+track_all, width track dif (units)
+track_all, width track for entity placement easy (units)
+track_all, width track for entity placement med (units)
+track_all, width track for entity placement dif (units)
+trac_abil, #intersections mult easy
+trac_abil, #intersections mult med
+trac_abil, #intersections mult dif

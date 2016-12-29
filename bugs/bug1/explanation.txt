@@ -1,0 +1,4 @@
+Chrases after a few minutes executing.
+
+Primera excepción en 0x750eb9bc en part.exe: Excepción de Microsoft C++: std::bad_alloc en la ubicación de memoria 0x0038ecec..
+Excepción no controlada en 0x750eb9bc en part.exe: Excepción de Microsoft C++: std::bad_alloc en la ubicación de memoria 0x0038ecec..

@@ -1,0 +1,4 @@
+GBP_GFXDEBUG_TRACK
+
+controlled with (z,x) that change which iteration of the track to display
+(this is stored in Global::mShowIterTrack)

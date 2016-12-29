@@ -1,0 +1,3 @@
+The width of placement for archs is inferior to that for bumpers.
+Controlled via:
+Track::mArchPlacementWidthReduction

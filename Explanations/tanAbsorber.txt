@@ -1,0 +1,4 @@
+Both azimuth and tan absorbers are used in extreme cases
+that can happen both at the same time, in which case we
+want tan absortion to happen first.
+That's why tan absorbers are not limited to any azimuth.

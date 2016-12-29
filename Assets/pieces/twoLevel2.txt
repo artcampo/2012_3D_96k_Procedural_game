@@ -1,0 +1,48 @@
+////////////////////////////////////////////////////////////
+//   twoLevel2
+////////////////////////////////////////////////////////////
+
+namespace StoredDirGraphtwoLevel2 {
+
+D3DXVECTOR3 StoredV[14] = {
+  D3DXVECTOR3(0 , 0 , 0 ) ,
+  D3DXVECTOR3(0.123623 , -0.00315338 , -0.132702 ) ,
+  D3DXVECTOR3(0.781189 , -0.0554 , 0.000468373 ) ,
+  D3DXVECTOR3(0.836773 , -0.0003106 , -0.108317 ) ,
+  D3DXVECTOR3(0.925537 , -0.00185108 , 0 ) ,
+  D3DXVECTOR3(0.998319 , 0 , 0 ) ,
+  D3DXVECTOR3(0.05 , -0.000690103 , 0.000490189 ) ,
+  D3DXVECTOR3(0.230483 , -0.056482 , -0.000307828 ) ,
+  D3DXVECTOR3(0.170139 , -0.000718817 , -0.000488162 ) ,
+  D3DXVECTOR3(0.340662 , 0.0685149 , 0.00106275 ) ,
+  D3DXVECTOR3(0.65 , 0.070765 , 0.000730097 ) ,
+  D3DXVECTOR3(0.764072 , 0.00318108 , 0.0915822 ) ,
+  D3DXVECTOR3(0.834814 , -0.000724465 , 0.000146724 ) ,
+  D3DXVECTOR3(0.240713 , 0.0265718 , 0.15 ) 
+};
+
+int StoredNumE[14] = {
+1,1,1,
+1,1,0,
+2,1,1,
+1,1,1,
+1,1
+};
+
+int StoredE[14] = {
+6,7,3,
+4,5,1,
+8,2,13,
+10,11,12,
+4,9
+};
+
+}; // end of namespace StoredDirGraph
+
+DirectedGraph::StoredDirGraph twoLevel2 = { 
+  14,
+  14,
+  &StoredDirGraphtwoLevel2::StoredV[0],
+  &StoredDirGraphtwoLevel2::StoredNumE[0],
+  &StoredDirGraphtwoLevel2::StoredE[0] 
+};

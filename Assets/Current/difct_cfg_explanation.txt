@@ -1,0 +1,3 @@
+chrono, time mult easy
+chrono, time mult med
+chrono, time mult dif

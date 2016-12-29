@@ -1,0 +1,6 @@
+VertexDistance
+
+ProbArmAtEdge, 0<p<1, probability that a given edge has an arm
+structure near
+
+DistanceToEdge

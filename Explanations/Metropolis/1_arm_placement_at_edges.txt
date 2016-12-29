@@ -1,0 +1,18 @@
+Given that all arms are parallel to (0,1,0) (up on dx),
+the placement is a problem in two dimensions, the xz
+plane.
+
+fig_1_xz
+
+In [1] we see where we place the arms, if the edge
+has length l, then p is valid if 
+VertexDistance < p < l - VertexDistance
+
+In [2] we see that topological nearness can't be used
+to check for spatial distance. So we can't rule out
+farther edges in the graph when looking for collisions.
+In that case e0 and e1 intersect even if they are far
+in the graph.
+
+[3] We'll assume the edges to be linear, and make enough
+distance so that they don't touch.
